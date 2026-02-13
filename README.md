@@ -168,7 +168,7 @@ src/
 ```bash
  1️⃣ Clone the Repository
 
-git clone <your-repo-url>
+git clone https://github.com/KarthickRamAlagar/supabase-task-manager
 
 cd project-folder
 
