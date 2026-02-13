@@ -9,7 +9,7 @@ A full-stack Task Manager application built using React and Supabase.
 
 This project demonstrates Authentication, Database CRUD operations, Realtime updates, and File Storage using Supabase.
 
-![Live Demo](https://supabase-task-manager-ecru.vercel.app/)
+[Live Demo](https://supabase-task-manager-ecru.vercel.app/)
 
 ---
 
